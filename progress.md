@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 6
+Total solved: 9
+
+## 2026-08-02
+- Invalid Tweets - (Easy)
+- Sum Root to Leaf Numbers - (Medium)
+- Reverse Nodes in k-Group - (Hard)
 
 ## 2026-08-01
 - Sales Person - (Easy)
