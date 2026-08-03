@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 9
+Total solved: 12
+
+## 2026-08-03
+- Maximum Nesting Depth of the Parentheses - (Easy)
+- Unique Paths - (Medium)
+- Remove Invalid Parentheses - (Hard)
 
 ## 2026-08-02
 - Invalid Tweets - (Easy)
