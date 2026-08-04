@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 12
+Total solved: 15
+
+## 2026-08-04
+- Maximum Score After Splitting a String - (Easy)
+- Custom Sort String - (Medium)
+- Expression Add Operators - (Hard)
 
 ## 2026-08-03
 - Maximum Nesting Depth of the Parentheses - (Easy)
