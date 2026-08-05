@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 15
+Total solved: 18
+
+## 2026-08-05
+- Tenth Line - (Easy)
+- Minimum Sideway Jumps - (Medium)
+- K Inverse Pairs Array - (Hard)
 
 ## 2026-08-04
 - Maximum Score After Splitting a String - (Easy)
