@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 18
+Total solved: 21
+
+## 2026-08-06
+- Binary Tree Preorder Traversal - (Easy)
+- Random Point in Non-overlapping Rectangles - (Medium)
+- Number of Digit One - (Hard)
 
 ## 2026-08-05
 - Tenth Line - (Easy)
