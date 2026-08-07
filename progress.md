@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 21
+Total solved: 24
+
+## 2026-08-07
+- Sum of All Subset XOR Totals - (Easy)
+- Binary Subarrays With Sum - (Medium)
+- Minimum Possible Integer After at Most K Adjacent Swaps On Digits - (Hard)
 
 ## 2026-08-06
 - Binary Tree Preorder Traversal - (Easy)
