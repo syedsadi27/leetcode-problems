@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 24
+Total solved: 27
+
+## 2026-08-08
+- Maximum 69 Number - (Easy)
+- Sum of Square Numbers - (Medium)
+- Best Time to Buy and Sell Stock IV - (Hard)
 
 ## 2026-08-07
 - Sum of All Subset XOR Totals - (Easy)
