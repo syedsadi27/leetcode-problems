@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 27
+Total solved: 30
+
+## 2026-08-09
+- Teemo Attacking - (Easy)
+- Longest Word in Dictionary - (Medium)
+- Minimum One Bit Operations to Make Integers Zero - (Hard)
 
 ## 2026-08-08
 - Maximum 69 Number - (Easy)
