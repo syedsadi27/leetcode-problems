@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 30
+Total solved: 33
+
+## 2026-08-10
+- Relative Sort Array - (Easy)
+- Maximum Width of Binary Tree - (Medium)
+- Find Minimum in Rotated Sorted Array II - (Hard)
 
 ## 2026-08-09
 - Teemo Attacking - (Easy)
