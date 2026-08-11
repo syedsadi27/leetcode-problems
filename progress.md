@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 33
+Total solved: 36
+
+## 2026-08-11
+- Add to Array-Form of Integer - (Easy)
+- Flatten Nested List Iterator - (Medium)
+- Strange Printer II - (Hard)
 
 ## 2026-08-10
 - Relative Sort Array - (Easy)
