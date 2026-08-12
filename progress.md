@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 36
+Total solved: 39
+
+## 2026-08-12
+- Substrings of Size Three with Distinct Characters - (Easy)
+- Design Linked List - (Medium)
+- Redundant Connection II - (Hard)
 
 ## 2026-08-11
 - Add to Array-Form of Integer - (Easy)
