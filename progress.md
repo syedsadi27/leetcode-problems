@@ -1,6 +1,11 @@
 # LeetCode Progress
 
-Total solved: 39
+Total solved: 42
+
+## 2026-08-13
+- Sort Array By Parity II - (Easy)
+- Product of Array Except Self - (Medium)
+- Transform to Chessboard - (Hard)
 
 ## 2026-08-12
 - Substrings of Size Three with Distinct Characters - (Easy)
